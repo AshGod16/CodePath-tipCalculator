@@ -15,6 +15,7 @@
 		38A2504E24D3165000C48218 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38A2504C24D3165000C48218 /* LaunchScreen.storyboard */; };
 		38A2505924D3165000C48218 /* tipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A2505824D3165000C48218 /* tipTests.swift */; };
 		38A2506424D3165000C48218 /* tipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38A2506324D3165000C48218 /* tipUITests.swift */; };
+		38A2507224D32A2C00C48218 /* Screen Recording 2020-07-30 at 12.08.45 PM.mov in Resources */ = {isa = PBXBuildFile; fileRef = 38A2507124D32A2C00C48218 /* Screen Recording 2020-07-30 at 12.08.45 PM.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		38A2505F24D3165000C48218 /* tipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38A2506324D3165000C48218 /* tipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipUITests.swift; sourceTree = "<group>"; };
 		38A2506524D3165000C48218 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38A2507124D32A2C00C48218 /* Screen Recording 2020-07-30 at 12.08.45 PM.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "Screen Recording 2020-07-30 at 12.08.45 PM.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				38A2505724D3165000C48218 /* tipTests */,
 				38A2506224D3165000C48218 /* tipUITests */,
 				38A2503F24D3164D00C48218 /* Products */,
+				38A2507124D32A2C00C48218 /* Screen Recording 2020-07-30 at 12.08.45 PM.mov */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				38A2504E24D3165000C48218 /* LaunchScreen.storyboard in Resources */,
+				38A2507224D32A2C00C48218 /* Screen Recording 2020-07-30 at 12.08.45 PM.mov in Resources */,
 				38A2504B24D3165000C48218 /* Assets.xcassets in Resources */,
 				38A2504924D3164D00C48218 /* Main.storyboard in Resources */,
 			);
